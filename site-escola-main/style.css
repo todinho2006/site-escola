@@ -1,0 +1,47 @@
+*{margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+
+    ;}
+
+
+
+    
+.cabeçalho {
+    background-color: #3b39af;
+    color: rgb(20, 24, 27);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24 px 0;
+}
+
+.cabeçalho-imagem{
+    width: 15%;
+}
+
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.escola-imagem{
+    width: 10%;
+}
+
+.escola{
+    background-image: linear-gradient(#3b39af,#af8039);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
